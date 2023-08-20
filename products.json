@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "Producto Aleatorio 1",
+		"description": "Descripción del Producto Aleatorio 1",
+		"price": 100,
+		"thumbnail": "Sin imagen 1",
+		"code": "0001",
+		"stock": 1
+	},
+	{
+		"id": 2,
+		"title": "Producto Aleatorio 2",
+		"description": "Descripción del Producto Aleatorio 2",
+		"price": 200,
+		"thumbnail": "Sin imagen 2",
+		"code": "0002",
+		"stock": 15
+	},
+	{
+		"id": "3",
+		"title": "Producto Aleatorio 3",
+		"description": "Descripción del Producto Aleatorio 3",
+		"price": "450",
+		"thumbnail": "Sin imagen 3",
+		"code": "0003",
+		"stock": "40"
+	}
+]

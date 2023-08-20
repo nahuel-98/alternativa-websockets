@@ -1,0 +1,11 @@
+[
+	{
+		"id": "1",
+		"title": "Jabón2",
+		"description": "líquido",
+		"price": "100",
+		"thumbnail": "imagen",
+		"code": "22",
+		"stock": "33"
+	}
+]
